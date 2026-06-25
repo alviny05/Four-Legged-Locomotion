@@ -1,4 +1,4 @@
-# Quest 1: Controllable Four Legged Walker
+# Controllable Four Legged Walker
 
 Authors: Justin Nascimento, Alvin Yan
 
