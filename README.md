@@ -1,4 +1,4 @@
-# Controllable Four Legged Walker
+# Four Legged Locomotion 
 
 Authors: Justin Nascimento, Alvin Yan
 
