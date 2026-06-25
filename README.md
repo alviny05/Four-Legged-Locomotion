@@ -82,19 +82,6 @@ If the servos were attached to two different microcontrollers, I would treat one
 - Link to video demo. Not to exceed 120s
 - [Video Demo](https://youtu.be/Z_33kWh2MwA)
 
-### Self-Assessment
-
-| Objective Criterion | Rating | Max Value  |
-|---------------------------------------------|:-----------:|:---------:|
-| Objective One     | 1 |  1     |
-| Objective Two     | 1 |  1     |
-| Objective Three   | 1 |  1     |
-| Objective Four    | 1 |  1     |
-| Objective Five    | 1 |  1     |
-| Objective Six     | 1 |  1     |
-| Objective Seven   | 1 |  1     |
-
-
 
 ### AI and Open Source Code Assertions
 
